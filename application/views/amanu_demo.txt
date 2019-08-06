@@ -1,0 +1,8 @@
+<li><a href="#" id="pay"><b>Payment</b></a><br>
+<div class="col-sm-12" id="adminpay" style="background:blue;color:white;z-index:50;">
+<p><center><?= anchor('admin_welcome/on_py_page','Online Order Payment'); ?></center></p>
+<p><center><?= anchor('admin_welcome/of_py_page','Ofline Order Payment'); ?></center></p>
+<p><center><?= anchor('admin_welcome/all_py_page','All Payment'); ?></center></p>
+</div>
+
+</li>
